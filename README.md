@@ -1,15 +1,18 @@
 # U.S.-Election-2020
 ![Alt text](https://github.com/yingjiebyron/U.S.-Election-2020/blob/main/election%20illustration.png)
 
-Datasets for data analytics for U.S. Election 2020
 
-Snapshots of Qlik Sense Interactive Dashboards
+## Datasets repo for data analytics for U.S. Election 2020
+
+## Snapshots of Qlik Sense Interactive Dashboards
+
 ![Alt text](https://github.com/yingjiebyron/U.S.-Election-2020/blob/main/overview.png)
 ![Alt text](https://github.com/yingjiebyron/U.S.-Election-2020/blob/main/covid.png)
 ![Alt text](https://github.com/yingjiebyron/U.S.-Election-2020/blob/main/finance.png)
 ![Alt text](https://github.com/yingjiebyron/U.S.-Election-2020/blob/main/demographics.png)
 
-Data Sources and references:
+## Data Sources and references:
+
 270toWin: https://www.270towin.com/
 
 Federal Election Commission: https://www.fec.gov/
