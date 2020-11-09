@@ -1,5 +1,5 @@
 # U.S.-Election-2020
-![Alt text](https://github.com/yingjiebyron/U.S.-Election-2020/blob/main/election illustration.png)
+![Alt text](https://github.com/yingjiebyron/U.S.-Election-2020/blob/main/election%20illustration.png)
 
 Datasets for data analytics for U.S. Election 2020
 
