@@ -2,7 +2,7 @@
 Datasets for data analytics for U.S. Election 2020
 
 Snapshots of Qlik Sense Interactive Dashboards
-
+![Alt text](relative/overview.png?raw=true "Title")
 
 Data Sources and references:
 270toWin: https://www.270towin.com/
